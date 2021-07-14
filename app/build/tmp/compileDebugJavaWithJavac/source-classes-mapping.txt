@@ -1,2 +1,0 @@
-com/vmo/mavendemo/BuildConfig.java
- com.vmo.mavendemo.BuildConfig
