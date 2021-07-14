@@ -1,0 +1,2 @@
+com/vmo/hello/BuildConfig.java
+ com.vmo.hello.BuildConfig
